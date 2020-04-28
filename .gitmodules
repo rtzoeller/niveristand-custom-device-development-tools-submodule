@@ -1,0 +1,12 @@
+[submodule "system-definition-utilities"]
+	path = system-definition-utilities
+	url = https://github.com/NIVeriStandAdd-Ons/VeriStand-Addon-System-Definition-Utilities.git
+[submodule "network-comm"]
+	path = network-comm
+	url = https://github.com/NIVeriStandAdd-Ons/VeriStand-Addon-Network-Comm.git
+[submodule "import-export"]
+	path = import-export
+	url = https://github.com/NIVeriStandAdd-Ons/VeriStand-Addon-CD-Import-and-Export-Tool.git
+[submodule "hardware-discovery"]
+	path = hardware-discovery
+	url = https://github.com/NIVeriStandAdd-Ons/Hardware-Resource-Discovery.git
